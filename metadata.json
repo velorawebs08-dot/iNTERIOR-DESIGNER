@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Veda Interior Design",
+  "description": "Modern, elegant interior architecture and design portfolio with project galleries, room-by-room showcases, and bespoke quotation estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
